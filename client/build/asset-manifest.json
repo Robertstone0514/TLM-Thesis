@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c17fd927.css",
+    "main.js": "/static/js/main.3ab74f49.js",
+    "static/media/TLMWhiteLogo.png": "/static/media/TLMWhiteLogo.4d3941e5d14ebd5be6ca.png",
+    "static/media/mongoDB1.png": "/static/media/mongoDB1.04a2fc460f0fd753cf36.png",
+    "static/media/react-logo.png": "/static/media/react-logo.fa54eda265674fe49aa1.png",
+    "static/media/CSS3.png": "/static/media/CSS3.66c104129648d946a322.png",
+    "static/media/Express-js.png": "/static/media/Express-js.af6376dd6bfea62031d0.png",
+    "static/media/JS.png": "/static/media/JS.ba0e2dda4ac15fe6480f.png",
+    "static/media/HTML5.png": "/static/media/HTML5.e4b4a214c944d4f23492.png",
+    "static/media/jquery-icon.black.png": "/static/media/jquery-icon.black.0ab9188b6a87109a5c70.png",
+    "static/media/Node-js.png": "/static/media/Node-js.57a1b2a8918b532a3902.png",
+    "static/media/bootstrap.green.png": "/static/media/bootstrap.green.620959099896cac57337.png",
+    "static/media/tlmlogo.png": "/static/media/tlmlogo.f890ecbda61b19fbaacc.png",
+    "index.html": "/index.html",
+    "main.c17fd927.css.map": "/static/css/main.c17fd927.css.map",
+    "main.3ab74f49.js.map": "/static/js/main.3ab74f49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17fd927.css",
+    "static/js/main.3ab74f49.js"
+  ]
+}

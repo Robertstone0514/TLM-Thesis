@@ -1,0 +1,15 @@
+.success{
+    font-style: italic;
+    color: #ffffff;
+    background: linear-gradient(to right,#039b00,rgb(0, 213, 0) 100%, transparent );
+}
+.success  i {
+    color: rgb(39, 179, 0);
+}
+.success strong {
+    color: #175f00;
+}
+.toast-body {
+    border: solid white 1px;
+    border-top: none;
+}

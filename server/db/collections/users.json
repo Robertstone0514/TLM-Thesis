@@ -1,0 +1,1634 @@
+{
+	"_id": {
+		"$oid": "6087035713071b690530956d"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087035a13071b690530956e"
+		}
+	],
+	"firstName": "q",
+	"lastName": "q",
+	"email": "q@gmail.com",
+	"password": "$2b$10$BeKxscx.FpzCk9/UtEi8cuC8K9M2t0SopGaSyvCd6c4/27BTBTWNu",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:15:51.322Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:15:59.859Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087036c13071b690530956f"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087036f13071b6905309570"
+		}
+	],
+	"firstName": "w",
+	"lastName": "w",
+	"email": "w@gmail.com",
+	"password": "$2b$10$SxSWTbqEcwpFEzCZpqUw7e0OZdmEsIOjnw67oVnM98khz1STCE2fq",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:16:12.535Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:16:17.546Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087037d13071b6905309571"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087038013071b6905309572"
+		}
+	],
+	"firstName": "e",
+	"lastName": "e",
+	"email": "e@gmail.com",
+	"password": "$2b$10$5vsTVn6KsOpGw1gviZRd8O0BcMX8UCxNjvyQkNIYHQ.IL91Zoy/Ba",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:16:29.342Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:16:34.364Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087039c13071b6905309573"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087039f13071b6905309574"
+		}
+	],
+	"firstName": "r",
+	"lastName": "r",
+	"email": "r@gmail.com",
+	"password": "$2b$10$pN7TXLglxm/HpzP7tYIEa.DyahO.nmqxe4Y8wH5x1Mjl4TBbkcJqC",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:17:00.702Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:17:06.158Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608703af13071b6905309575"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608703b213071b6905309576"
+		}
+	],
+	"firstName": "t",
+	"lastName": "t",
+	"email": "t@gmail.com",
+	"password": "$2b$10$wvS7x/LSvABJbVebZ0/OSeNSO14UrfegUOImiMoSTdf.MTAMZA5Lu",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:17:19.441Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:17:24.551Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608703c413071b6905309577"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608703c713071b6905309578"
+		}
+	],
+	"firstName": "y",
+	"lastName": "y",
+	"email": "y@gmail.com",
+	"password": "$2b$10$VumLLZ8x1lVvdgzbbpmu2ep5FjWIxD4bku8T936ZT9OG3KTIdVEyi",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:17:40.723Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:17:46.504Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608703d913071b6905309579"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608703dd13071b690530957a"
+		}
+	],
+	"firstName": "u",
+	"lastName": "u",
+	"email": "u@gmail.com",
+	"password": "$2b$10$n2rLYTKlagMlhkUMT37G8u5c9lhbgOHaAQEnfNjFoDeetWV9McAF2",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:18:01.907Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:18:07.744Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608703f413071b690530957b"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608703f713071b690530957c"
+		}
+	],
+	"firstName": "i",
+	"lastName": "i",
+	"email": "i@gmail.com",
+	"password": "$2b$10$dpsunFGqySY7oR/ZvNuV3etTeEf7DWi1WxsC6WKBJtQj62CfHiPUm",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:18:28.804Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:18:34.124Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087040713071b690530957d"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087040a13071b690530957e"
+		}
+	],
+	"firstName": "o",
+	"lastName": "o",
+	"email": "o@gmail.com",
+	"password": "$2b$10$Q96VRWjEzKyfa98e1wQ/SeltbOkPRVLlgltBY7W.hyOtP0iYkLjs6",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:18:47.666Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:18:52.755Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087042913071b690530957f"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087042c13071b6905309580"
+		}
+	],
+	"firstName": "p",
+	"lastName": "p",
+	"email": "p@gmail.com",
+	"password": "$2b$10$V8NYQyGl7ZoaeEnRiIT0MOy4ovx4S3xyMWorVTjvYbMD2N2.vCxR6",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:19:21.425Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:19:27.076Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087044f13071b6905309581"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087045213071b6905309582"
+		}
+	],
+	"firstName": "a",
+	"lastName": "a",
+	"email": "a@gmail.com",
+	"password": "$2b$10$bj/2tEXdIFhx5OzNQtnXf.zuitSTy5Yiz5PCq3PUGzMYQuqQ6Q8ce",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:19:59.514Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:20:05.432Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087045d13071b6905309583"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [],
+	"firstName": "s",
+	"lastName": "s",
+	"email": "s@gmail.com",
+	"password": "$2b$10$q4DeTgGQp8KO47.RLZIizuSUgQvDYtrdrr6e0BGH9wUolf7X8lDui",
+	"isLoggedIn": true,
+	"createdAt": {
+		"$date": "2021-04-26T18:20:13.778Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:20:13.778Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087048813071b6905309585"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087048b13071b6905309586"
+		}
+	],
+	"firstName": "d",
+	"lastName": "d",
+	"email": "d@gmail.com",
+	"password": "$2b$10$DDP3JT6SNgxkIF3QQxW9CeyB/dLc5.0Gzw1H8K88GRWRJ/yUzidKi",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:20:56.723Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:21:27.441Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608704b313071b6905309587"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608704b613071b6905309588"
+		}
+	],
+	"firstName": "f",
+	"lastName": "f",
+	"email": "f@gmail.com",
+	"password": "$2b$10$hH.M4nq7eIYM21QlsL/X.uHV/KgOVYGvo.uScr5JZBCeXzFJxmq4S",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:21:39.058Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:21:44.690Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608704c513071b6905309589"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608704c813071b690530958a"
+		}
+	],
+	"firstName": "g",
+	"lastName": "g",
+	"email": "g@gmail.com",
+	"password": "$2b$10$H0fAuA0eXJatWBzxIqTWbuwu4Mk/EzDhOubxSx9FGz.YpcQPsW2I6",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:21:57.603Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:22:02.939Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608704da13071b690530958b"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608704dd13071b690530958c"
+		}
+	],
+	"firstName": "h",
+	"lastName": "h",
+	"email": "h@gmail.com",
+	"password": "$2b$10$AusAx6BTf3hEDGWz8kPmXesOIZxPwE7EHbYfYERMskBxrd4kHmcea",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:22:18.472Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:22:23.860Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608704f513071b690530958d"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608704f813071b690530958e"
+		}
+	],
+	"firstName": "j",
+	"lastName": "j",
+	"email": "j@gmail.com",
+	"password": "$2b$10$QmkGGU7Xhtdajlif79103eZrTq0eV/zbcf6E3G.00XcsmVUpmaSle",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:22:45.377Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:22:50.710Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087051013071b690530958f"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087051313071b6905309590"
+		}
+	],
+	"firstName": "k",
+	"lastName": "k",
+	"email": "k@gmail.com",
+	"password": "$2b$10$qLcEln0OQXoJU7v5BRBVEetu8KGj1U5O3Sx/NTjglOyBSYFHlwko6",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:23:12.413Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:23:17.006Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087052f13071b6905309591"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087053213071b6905309592"
+		}
+	],
+	"firstName": "l",
+	"lastName": "l",
+	"email": "l@gmail.com",
+	"password": "$2b$10$9/Z4JWhOBVWbWUN6jAnAxefB96iW.iSdg0AGaaKns6T5JMvmQtdPu",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:23:43.696Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:23:49.164Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087054513071b6905309593"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087054813071b6905309594"
+		}
+	],
+	"firstName": "z",
+	"lastName": "z",
+	"email": "z@gmail.com",
+	"password": "$2b$10$tGoHBDW2bqkKApK9XM1ueelKib60Xl0XwTnYQQovQ.TwKNM.cSBJa",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:24:05.534Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:24:11.081Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087055e13071b6905309595"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087056113071b6905309596"
+		}
+	],
+	"firstName": "x",
+	"lastName": "x",
+	"email": "x@gmail.com",
+	"password": "$2b$10$qMVpAa5jthgicaXK/YbYBOK3OeepRdSKQN/wK54g6Xi2GlMQnpOj2",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:24:30.284Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:24:35.247Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087056d13071b6905309597"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087057013071b6905309598"
+		}
+	],
+	"firstName": "c",
+	"lastName": "c",
+	"email": "c@gmail.com",
+	"password": "$2b$10$qg2DvZr/tjAN4V8EFw7wJOpD.ed1BIuLXj/YFz2KS5joR7b02MJ3i",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:24:45.603Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:24:50.591Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087057a13071b6905309599"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087057d13071b690530959a"
+		}
+	],
+	"firstName": "v",
+	"lastName": "v",
+	"email": "v@gmail.com",
+	"password": "$2b$10$bHxLXBSaRmsf0pQdrW44zemPIRPYffbUbiaxiwaEoXciUqIDIOVVG",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:24:58.666Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:25:04.423Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "6087058d13071b690530959b"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "6087059013071b690530959c"
+		}
+	],
+	"firstName": "b",
+	"lastName": "bb",
+	"email": "b@gmail.com",
+	"password": "$2b$10$FGT1fvCAILV7DnWzRgRcduQfJfYqxIlNSobG642QpDOzZx9vfiZ0i",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:25:17.650Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:25:22.701Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608705a613071b690530959e"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608705a913071b690530959f"
+		}
+	],
+	"firstName": "n",
+	"lastName": "n",
+	"email": "n@gmail.com",
+	"password": "$2b$10$LgWoBRztVWaQBqz90Dc6nepGhURubb5Lxy06Qjm1f1FeuJtR7248S",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:25:42.282Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:25:47.195Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "608705ba13071b69053095a0"
+	},
+	"gameStatus": {
+		"Web_Dev": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		},
+		"MERN": {
+			"attempts": 0,
+			"passed": false,
+			"highestScore": 0
+		}
+	},
+	"language": {
+		"html": {
+			"average": []
+		},
+		"css": {
+			"average": []
+		},
+		"javascript": {
+			"average": []
+		},
+		"jquery": {
+			"average": []
+		},
+		"bootstrap": {
+			"average": []
+		},
+		"mongodb": {
+			"average": []
+		},
+		"express": {
+			"average": []
+		},
+		"react": {
+			"average": []
+		},
+		"node": {
+			"average": []
+		}
+	},
+	"userImage": [
+		{
+			"$oid": "608705bd13071b69053095a1"
+		}
+	],
+	"firstName": "m",
+	"lastName": "m",
+	"email": "m@gmail.com",
+	"password": "$2b$10$0KbmXI6ACx8wFldIl8XqV.0dPcYHVioHdy9CyKE4H1VWIMXc5yS/G",
+	"isLoggedIn": false,
+	"createdAt": {
+		"$date": "2021-04-26T18:26:02.610Z"
+	},
+	"updatedAt": {
+		"$date": "2021-04-26T18:26:08.027Z"
+	},
+	"__v": 0
+}

@@ -1,0 +1,42 @@
+.imgIcon {
+    position: relative;
+    width: 100%;
+    width:16rem;
+    height:16rem;
+    display: inline-block;
+    margin: 5px;
+    overflow: hidden;
+}
+
+.imgIcon img {
+  width: 100%;
+}
+
+.imgIcon:hover .overlay {
+    opacity: 1;
+}
+
+.overlay{
+  position:absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  height:100%;
+  opacity: 0;
+  transition: opacity .4s;
+  background-color: rgba(0, 0, 0, 0.762);
+  z-index: 2;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 415px) {
+ .xs-screen {
+   height: 3.5rem !important;
+ }
+}
