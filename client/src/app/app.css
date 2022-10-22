@@ -1,0 +1,17 @@
+html {
+    padding-right: 0 !important;
+    margin: 0 !important;
+    font-size: 14px;
+} 
+body {
+  background-color: rgba(145, 145, 145, 0.064) !important;
+}
+.container {
+   margin-bottom: 8rem;
+ }
+ @media (min-width: 768px) {
+   html {
+     font-size: 16px;
+   }
+ }
+

@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "mongo db/dropall.js; sh db/dbimport.sh",
+    "export": "sh db/dbexport.sh",
+    "lint": "eslint '**/*.{js, jsx}' --quiet",
+    "lint:fix": "eslint '**/*.{js,jsx}' --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0",
+    "multiparty": "^4.2.2",
+    "node-pre-gyp": "^0.17.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

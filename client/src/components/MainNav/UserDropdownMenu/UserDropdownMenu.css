@@ -1,0 +1,33 @@
+#nav_userImage_dropdown_small {
+    height: 2rem;
+    width: 2rem;
+    margin-top: .2rem
+}
+#nav_userImage_dropdown_large {
+    height: 4rem;
+    width: 4rem;
+    margin-top: .2rem
+}
+.dropdown-toggle {
+    border: none;
+}
+button.dropdown-toggle.btn {
+    box-shadow: 0 0 0 0;
+}
+.dropdown-toggle::after {
+    color: white;
+}
+.dropdown-menu {
+    position: absolute !important;
+    top: 100%;
+    left: -1300% !important;
+    margin-top: .8rem !important;
+    width: 23rem !important;
+}
+#profileBtn {
+    color: black;
+    background-color: rgb(255, 255, 255) !important;
+}
+#profileBtn:hover, #profileBtn:active {
+    background-color: rgba(232, 232, 232, 0.571) !important;
+}

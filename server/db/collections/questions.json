@@ -1,0 +1,659 @@
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb26"
+	},
+	"question": "What tag would be used to link to a seperate HTML file?",
+	"allAnswers": [
+		"\u003ca\u003e",
+		"\u003clink\u003e",
+		"\u003cem\u003e",
+		"\u003ccite\u003e"
+	],
+	"correctAnswer": "\u003ca\u003e",
+	"language": "html",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb27"
+	},
+	"question": "What does the 'ol' tag stand for?",
+	"allAnswers": [
+		"On License",
+		"Over Layout",
+		"Unordered List",
+		"None of the above"
+	],
+	"correctAnswer": "None of the above",
+	"language": "html",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb28"
+	},
+	"question": "What tag is used to create a supplemented number/letter?",
+	"allAnswers": [
+		"\u003cstrong\u003e",
+		"\u003csup\u003e",
+		"\u003cem\u003e",
+		"\u003csub\u003e"
+	],
+	"correctAnswer": "\u003csup\u003e",
+	"language": "html",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb29"
+	},
+	"question": "Which tag creates the biggest text?",
+	"allAnswers": [
+		"\u003ch6\u003e",
+		"\u003cp\u003e",
+		"\u003cem\u003e",
+		"\u003ch1\u003e"
+	],
+	"correctAnswer": "\u003ch1\u003e",
+	"language": "html",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb2a"
+	},
+	"question": "What does the 'td' tag stand for?",
+	"allAnswers": [
+		"Top Data",
+		"Table Data",
+		"Top Date",
+		"Table Date"
+	],
+	"correctAnswer": "Table Data",
+	"language": "html",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb2b"
+	},
+	"question": "Using CSS, how do you create UPPERCASE text?",
+	"allAnswers": [
+		"text-transform: uppercase",
+		"text-transform: capitalize",
+		"text-decoration: uppercase",
+		"font-weight: bold"
+	],
+	"correctAnswer": "text-transform: uppercase",
+	"language": "css",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb2c"
+	},
+	"question": "What does the \"0.5\" represent in: background-color: rgba(0,0,0,0.5)",
+	"allAnswers": [
+		"Hue",
+		"Opacity",
+		"Saturation",
+		"Color"
+	],
+	"correctAnswer": "Opacity",
+	"language": "css",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb2d"
+	},
+	"question": "Which one would be an example of selecting a direct child element?",
+	"allAnswers": [
+		"p a {}",
+		"li\u003ea {}",
+		"h3~p {}",
+		"h1+p {}"
+	],
+	"correctAnswer": "li\u003ea {}",
+	"language": "css",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb2e"
+	},
+	"question": "What does CSS stand for?",
+	"allAnswers": [
+		"Cascade Style Sheets",
+		"Cascade Size Style",
+		"Call Style Shadows",
+		"Javascript"
+	],
+	"correctAnswer": "Cascade Style Sheets",
+	"language": "css",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb2f"
+	},
+	"question": "16px is equal to:",
+	"allAnswers": [
+		"1rem",
+		"50%",
+		"48pt",
+		"1em"
+	],
+	"correctAnswer": "1em",
+	"language": "css",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb30"
+	},
+	"question": "Looking at document.write('Good Morning'), what does \"Good Morning\" represent?",
+	"allAnswers": [
+		"Method",
+		"Member operator",
+		"Parameter",
+		"Object"
+	],
+	"correctAnswer": "Parameter",
+	"language": "javascript",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb31"
+	},
+	"question": "What layer does Javascript represent in web-development?",
+	"allAnswers": [
+		"Behavior layer",
+		"Content layer",
+		"Presentation layer",
+		"Architectural layer"
+	],
+	"correctAnswer": "Behavior layer",
+	"language": "javascript",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb32"
+	},
+	"question": "At what point does Javascript run?",
+	"allAnswers": [
+		"When the page loads",
+		"Never",
+		"After the page loads",
+		"The point it is found in the document"
+	],
+	"correctAnswer": "The point it is found in the document",
+	"language": "javascript",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb33"
+	},
+	"question": "What do the [] brackets represent?",
+	"allAnswers": [
+		"Array",
+		"Object",
+		"Method",
+		"Function"
+	],
+	"correctAnswer": "Array",
+	"language": "javascript",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb34"
+	},
+	"question": "When using Math.ceil, your number will...",
+	"allAnswers": [
+		"Round Down",
+		"Round Up",
+		"Give Whole Numbers Only",
+		"Only Give Two Decimal Places"
+	],
+	"correctAnswer": "Round Up",
+	"language": "javascript",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb35"
+	},
+	"question": "Which method inserts content inside the selected element(s) before the closing tag?",
+	"allAnswers": [
+		".prepend()",
+		".after()",
+		".before()",
+		".append()"
+	],
+	"correctAnswer": ".append()",
+	"language": "jquery",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb36"
+	},
+	"question": "How would you hide all of the matched elements of your choice?",
+	"allAnswers": [
+		".focusout()",
+		":hidden Selector",
+		".hide()",
+		".get()"
+	],
+	"correctAnswer": ".hide()",
+	"language": "jquery",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb37"
+	},
+	"question": "What does the (\"*\") selector select?",
+	"allAnswers": [
+		"First Element",
+		"Last Child Element",
+		"Parent Element",
+		"All Elements"
+	],
+	"correctAnswer": "All Elements",
+	"language": "jquery",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb38"
+	},
+	"question": "What would you use to perform a custom animation of a set of CSS properties?",
+	"allAnswers": [
+		".playAnimation()",
+		".animate()",
+		".GIF()",
+		".play()"
+	],
+	"correctAnswer": ".animate()",
+	"language": "jquery",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb39"
+	},
+	"question": "How would you get the value of a computed style property for the first element in the set of matched elements or set one or more CSS properties for every matched element.",
+	"allAnswers": [
+		"#css(",
+		".style()",
+		".css()",
+		".change()"
+	],
+	"correctAnswer": ".css()",
+	"language": "jquery",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb3a"
+	},
+	"question": "What tag is used to create a button group?",
+	"allAnswers": [
+		"\u003crow\u003e",
+		"\u003cdiv\u003e",
+		"\u003cbutton\u003e",
+		"\u003cinput\u003e"
+	],
+	"correctAnswer": "\u003cdiv\u003e",
+	"language": "bootstrap",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb3b"
+	},
+	"question": "All textual 'input', 'textarea', and 'select' elements with class .form-control have a width of?",
+	"allAnswers": [
+		"80%",
+		"10%",
+		"100%",
+		"undefined"
+	],
+	"correctAnswer": "100%",
+	"language": "bootstrap",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb3c"
+	},
+	"question": "A dropdown menu must have a class set of?",
+	"allAnswers": [
+		"drop dropdown-toggle",
+		"drop dropdown",
+		"dropdown toggle",
+		"dropdown dropdown-toggle"
+	],
+	"correctAnswer": "dropdown dropdown-toggle",
+	"language": "bootstrap",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb3d"
+	},
+	"question": "What element must be used to create a jumbotron?",
+	"allAnswers": [
+		"\u003ch1\u003e",
+		"\u003cdiv\u003e",
+		"\u003ccol\u003e",
+		"\u003cjumbotron\u003e"
+	],
+	"correctAnswer": "\u003cdiv\u003e",
+	"language": "bootstrap",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "5fdb534d7c725d24f1e0bb3e"
+	},
+	"question": "Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content. What class is used before the \"col\" class in this system?",
+	"allAnswers": [
+		"div",
+		"container",
+		"col-sm",
+		"row"
+	],
+	"correctAnswer": "row",
+	"language": "bootstrap",
+	"track": "WDF"
+}
+{
+	"_id": {
+		"$oid": "604b8252fb2d8bb222c3b867"
+	},
+	"question": "Node.js was created by...",
+	"allAnswers": [
+		"Facebook in 2010",
+		"Ryan Dahl in 2009",
+		"Shannon Bradshaw in 2015 ",
+		"Microsoft founder Bill Gates in 1998"
+	],
+	"correctAnswer": "Ryan Dahl in 2009",
+	"language": "node",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b8288fb2d8bb222c3b868"
+	},
+	"question": "Express accepts HTTP requests from a client and returns...",
+	"allAnswers": [
+		"the mongoDB database",
+		"a current timestamp",
+		"a boolean (true or false)",
+		"an HTTP response"
+	],
+	"correctAnswer": "multiple elements in a render() method",
+	"language": "express",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b8289fb2d8bb222c3b869"
+	},
+	"question": " Express is the __________ of a web application framework",
+	"allAnswers": [
+		"server-side part",
+		"client side part",
+		"database part",
+		"UI experience"
+	],
+	"correctAnswer": "server-side part",
+	"language": "express",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828afb2d8bb222c3b86a"
+	},
+	"question": "Express can accept requests from...",
+	"allAnswers": [
+		"a browser and another server",
+		"a mobile device and a desktop application",
+		"anything that speaks HTTP",
+		"all of the above"
+	],
+	"correctAnswer": "all of the above",
+	"language": "express",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828afb2d8bb222c3b86b"
+	},
+	"question": "The Express website describes Express as a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "True",
+	"language": "express",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828bfb2d8bb222c3b86c"
+	},
+	"question": "There are hundreds (if not thousands) of community packages that go into an Express application.",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "True",
+	"language": "express",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828bfb2d8bb222c3b86d"
+	},
+	"question": "In order to work with React, you must include which two libraries?",
+	"allAnswers": [
+		"React and ReactDOM",
+		"react-redux and react-router-bootstrap",
+		"react-scripts and react",
+		"none of the above combinations are correct"
+	],
+	"correctAnswer": "React and ReactDOM",
+	"language": "react",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828cfb2d8bb222c3b86e"
+	},
+	"question": "ReactDOM contains the tools necessary to render React elements in the browser.",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "True",
+	"language": "react",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828cfb2d8bb222c3b86f"
+	},
+	"question": "Stateless Functional Components are objects, not functions; therefore, they do have a \"this\" scope",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "False",
+	"language": "react",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828cfb2d8bb222c3b870"
+	},
+	"question": "JSX is __________.",
+	"allAnswers": [
+		"DOM Control only",
+		"Javascript",
+		"React-Bootstrap",
+		"none of the above"
+	],
+	"correctAnswer": "Javascript",
+	"language": "react",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828dfb2d8bb222c3b871"
+	},
+	"question": "The React.Fragment component lets you return...",
+	"allAnswers": [
+		"a single element in a render() method",
+		"only up to (5) elements in a render() method",
+		"elements without using a render() method",
+		"multiple elements in a render() method"
+	],
+	"correctAnswer": "multiple elements in a render() method",
+	"language": "react",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828dfb2d8bb222c3b873"
+	},
+	"question": "Much like Express, the Nodes.js approach to web servers is very minimal.",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "True",
+	"language": "node",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828efb2d8bb222c3b874"
+	},
+	"question": "__________ runs at the heart of the MERN Stack by being the software that enables JavaScript to run on the server, uncoupled from a browser, which in turn allows frameworks written in JavaScript (like Express) to be used.",
+	"allAnswers": [
+		"React",
+		"Nodejs",
+		"MongoDB",
+		"Express"
+	],
+	"correctAnswer": "Nodejs",
+	"language": "node",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828efb2d8bb222c3b875"
+	},
+	"question": "Node simply does not provide the framework for you to build a web server.",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "False",
+	"language": "node",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828efb2d8bb222c3b876"
+	},
+	"question": "The Node team has gone to great lengths to make sure the installation process is simple and straightforward on all major platforms",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "True",
+	"language": "node",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828ffb2d8bb222c3b877"
+	},
+	"question": "Select the correct query...",
+	"allAnswers": [
+		"db.find({\"name\":James}),pretty()",
+		"db.find({\"age\":21}).pretty{}",
+		"db.find({\"age\":{\"$gte\":21, \"lte\":30}}).pretty()",
+		"db.find({\"_id\":3}).count"
+	],
+	"correctAnswer": "db.find({\"age\":{\"$gte\":21, \"lte\":30}}).pretty()",
+	"language": "mongodb",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828ffb2d8bb222c3b878"
+	},
+	"question": "MongoDB is a relational database.",
+	"allAnswers": [
+		"True",
+		"False"
+	],
+	"correctAnswer": "False",
+	"language": "mongodb",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828ffb2d8bb222c3b879"
+	},
+	"question": "The greatest benefit of learning to use a database like MongoDB is that:",
+	"allAnswers": [
+		"Unlike all other existing technologies, MongoDB is free",
+		"Using a database will make your app much faster than a pure front-end app",
+		"Data doesn’t get erased every time your user refreshes the page",
+		"MongoDB will automatically check your code for errors"
+	],
+	"correctAnswer": "Data does not get erased every time your user refreshes the page",
+	"language": "mongodb",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604b828ffb2d8bb222c3b87a"
+	},
+	"question": "MongoDB essentially stores all of its data in _______ format.",
+	"allAnswers": [
+		"MS Word",
+		"GIMP",
+		"JSON",
+		"LMS"
+	],
+	"correctAnswer": "JSON",
+	"language": "mongodb",
+	"track": "MERN"
+}
+{
+	"_id": {
+		"$oid": "604bb738fb2d8bb222c3b889"
+	},
+	"question": "If you try to add data to a MongoDB collection that does not exist, Mongo will...",
+	"allAnswers": [
+		"Throw an error",
+		"Throw an error, close your connection, and shut down your computer",
+		"Throw an error and close your connection",
+		"Go ahead and create the collection for you"
+	],
+	"correctAnswer": "Go ahead and create the collection for you",
+	"language": "mongodb",
+	"track": "MERN"
+}
